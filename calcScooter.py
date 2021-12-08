@@ -9,7 +9,7 @@ print(isreparatiebetaalbaar)
 print(type(isreparatiebetaalbaar))
 
 print('is de scooteropknapbeurt betaalbaar?')
-if isreparatiebetaalbaar:
-print('ja, want de kosten passen in het budget')
+if isreparatiebetaalbaar: print ('ja, want de kosten passen in het budget')
+
 else: 
-    print('Nee, ga maar sparen voor een nieuwe scooter')
+    print ('Nee, ga maar sparen voor een nieuwe scooter')
